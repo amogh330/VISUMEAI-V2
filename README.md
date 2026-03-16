@@ -1115,16 +1115,6 @@ overall_score = (
 MIT License - See LICENSE file for details
 
 ---
-
-## 🤝 Support
-
-For questions or issues:
-- Create GitHub issue
-- Email: support@visumeai.example.com
-- Documentation: https://docs.visumeai.example.com
-
----
-
 **Version**: 2.3  
 **Last Updated**: October 2025  
 **Maintainer**: VisumeAI Team
